@@ -32,4 +32,4 @@ This is a simple Weather App for determining the weather in different parts of t
 
 ## Home Page
 
-Coming Soon...
+![alt text](image.png)
